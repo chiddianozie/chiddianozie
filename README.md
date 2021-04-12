@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on {redacted} from home.
+- 🌱 I’m currently reading [Attention Factory: The Story of TikTok and China's ByteDance](https://www.amazon.co.uk/Attention-Factory-TikTok-Chinas-ByteDance-ebook/dp/B08L1578B6)
+- 💬 Ask me about graphs, ML engineering, accessibility.
+- 😄 Pronouns: he/him
+
 <!--
 **sirchidi/sirchidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
