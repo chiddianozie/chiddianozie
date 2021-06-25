@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working from home.
+- 🔭 I’m currently working on [Automated Theorem Proving](https://en.wikipedia.org/wiki/Automated_theorem_proving) using [Graph Neural Networks](https://arxiv.org/pdf/1812.08434.pdf).
 - 🌱 I’m currently reading [Attention Factory: The Story of TikTok and China's ByteDance](https://www.amazon.co.uk/Attention-Factory-TikTok-Chinas-ByteDance-ebook/dp/B08L1578B6)
-- 💬 Ask me about graphs, ML engineering, accessibility.
+- 💬 Ask me about Graphs, MLOps/ML Engineering, Accessibility.
 - 😄 Pronouns: he/him
 - 🧘 "feedback is a gift"
 
